@@ -8,7 +8,7 @@ OWNER = {
     "location": "cape town, za // remote",
     "contact": {
         "email":    "ferganvanj@gmail.com",
-        "github":   "github.com/fergan",
+        "github":   "github.com/Ferganvj",
         "linkedin": "linkedin.com/in/ferganvj",
     },
 }
